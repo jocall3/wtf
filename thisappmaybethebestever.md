@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 # So, you want to know why this app might be the best ever.
 
 Fine. Let's get this over with.

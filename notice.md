@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 # A Quick Note on Your First Sign-In
 
 Here's a simple breakdown of this one-time process:

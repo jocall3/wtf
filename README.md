@@ -1,3 +1,6 @@
+// Copyright James Burvel O’Callaghan III
+// President Citibank Demo Business Inc.
+
 # DevCore AI Toolkit
 
 DevCore is a developer-centric web application designed to showcase the power of AI in the development process. It's a static application that can be deployed to any modern hosting provider.
